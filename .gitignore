@@ -33,3 +33,9 @@
 
 .idea
 .idea/*
+
+config/database.yml
+config/environments/development.rb
+config/environments/test.rb
+config/environments/production.rb
+

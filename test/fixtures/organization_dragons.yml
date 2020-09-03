@@ -1,0 +1,11 @@
+readbeard_smaug:
+  organization_id: readbeard
+  dragon_id: smaug
+  created_at: '2020/09/03'
+  updated_at: '2020/09/03'
+
+readbeard_clover:
+  organization_id: readbeard
+  dragon_id: clover
+  created_at: '2020/09/03'
+  updated_at: '2020/09/03'
